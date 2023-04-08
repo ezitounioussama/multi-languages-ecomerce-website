@@ -1,0 +1,13 @@
+{
+  "app.name": "Tienda sencilla",
+  "app.description": "Una tienda sencilla con React",
+  "app.products.caption": "Explora nuestros productos",
+  "app.products.text": "Tenemos una amplia gama de productos para elegir. Explora nuestros productos y agrégalos a tu carrito.",
+  "app.cart": "Carrito",
+  "app.cart.title": "Tu carrito",
+  "app.cart.empty": "El carrito está vacío",
+  "app.cart.items": "{count, plural, =0 {No tienes artículos} one {# articulo} other {# artículos }} en tu carrito",
+  "app.cart.remove": "Eliminar",
+  "app.cart.add": "Añadir al carrito",
+  "app.item.price": "{price, number, ::currency/EUR}"
+}

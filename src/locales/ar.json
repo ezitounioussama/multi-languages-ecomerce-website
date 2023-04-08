@@ -1,0 +1,13 @@
+{
+  "app.name": "المتجر البسيط",
+  "app.description": "متجر بسيط باستخدام React",
+  "app.products.caption": "استكشف منتجاتنا",
+  "app.products.text": "لدينا مجموعة واسعة من المنتجات للاختيار من بينها. استكشف منتجاتنا وأضفها إلى سلة التسوق الخاصة بك.",
+  "app.cart": "سلة التسوق",
+  "app.cart.title": "سلة التسوق الخاصة بك",
+  "app.cart.empty": "سلة التسوق الخاصة بك فارغة",
+  "app.cart.items": "{count, plural, =0 {لا توجد لديك أي عناصر} one {لديك عنصر واحد} other {لديك # عناصر}} في سلة التسوق الخاصة بك",
+  "app.cart.remove": "إزالة",
+  "app.cart.add": "أضف إلى سلة التسوق",
+  "app.item.price": "{price, number, ::currency/USD}"
+}
